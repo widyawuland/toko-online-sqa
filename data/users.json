@@ -1,0 +1,26 @@
+[
+    {
+        "nama": "test",
+        "email": "test@mail.com",
+        "password": "$2y$12$TVNtOBx8xd26kdG\/8soZYOn6osE0hYChf8zFpu4TIztmFYnTZXck6",
+        "role": "admin"
+    },
+    {
+        "nama": "wi",
+        "email": "widya@gmail.com",
+        "password": "$2y$10$y7t\/SIM.eeh09i\/4Iw7RbOkWdr\/rlLib0dD2PtONh3L.IEJAoGw3.",
+        "role": "pelanggan"
+    },
+    {
+        "nama": "wi",
+        "email": "widya1@gmail.com",
+        "password": "$2y$10$iiiUdITq9a6vVn6.I0rJG.KuzaXqH2N4R8JD57aw47uio5mubb01a",
+        "role": "pelanggan"
+    },
+    {
+        "nama": "budi",
+        "email": "budi@email.com",
+        "password": "$2y$10$gRaCS\/sQYb4ATmKtvn0WIOac\/abBcQMAe.6olqJ1vI2JJvYy9O1u6",
+        "role": "pelanggan"
+    }
+]
